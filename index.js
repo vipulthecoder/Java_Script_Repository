@@ -1,5 +1,7 @@
 let name = 'harry potter';
 let age='1';
-
-alert(name);
-alert(age);
+let car=['a', 'b', 'c'];
+let num = [];
+//alert(name);
+//alert(age);
+//alert(car[0]);
